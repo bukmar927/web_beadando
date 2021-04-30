@@ -1,4 +1,13 @@
+<a href="https://www.nohab-gm.hu/hu/hu_000.html">Eredeti oldal</a>
+<br>
 
+<video style="float:left; margin-left:200px;" width="320" height="240" controls>
+  <source src="images/video.mp4" type="video/mp4">
+  <source src="images/video.ogg" type="video/ogg">
+</video>
+<iframe style="float:right; margin-right: 200px;" width="320" height="240"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
 
 <table border=0 cellspacing=0 cellpadding=12 width="100%" height="100%">
 
